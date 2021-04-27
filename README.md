@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Wiggie-Scripts/Wiggie-Scripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -11,4 +9,4 @@
 - 💬 Ask me about Nothing ;)
 - 📫 How to reach me: Discord = Wiggie#2416
 - ⚡ Fun fact: Im cool
--->
+
