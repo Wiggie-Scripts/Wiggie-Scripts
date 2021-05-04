@@ -1,12 +1,33 @@
-### Hi there 👋
+### Sup 👋
+
+
+### Information
+
+### Programming Langs: Lua, Java, Javascript, Python, HTML/CSS, MINECRAFT SKRIPTING!!!!
+
+## About me: Well im a cool danish guy that loves, to program in many difrent langs. Im currently
+### working the most os Lua in FiveM.
+
+Website =  https://wiggie.netlify.app
+Discord Server (DANISH) = https://discord.gg/vqWWdPPMSZ
+
+
+FiveM Servers i have/i am been/are developing for: Nexus RP 2.0 - Northern City - Danish City - CPH-STATE(SCRIPTER) - And a lot more.
+
+
+Fun fact: I'm cool.
 
 
 
 
-- 🔭 I’m currently working on: FiveM servers. Lua, Discord.js, HTML
-- 🌱 I’m currently learning Javascript and getting better at Lua ofc.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Nothing ;)
-- 📫 How to reach me: Discord = Wiggie#2416
-- ⚡ Fun fact: Im cool
+
+
+
+
+
+
+
+
+
+
 
