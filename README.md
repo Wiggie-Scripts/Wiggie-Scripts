@@ -1,5 +1,6 @@
 ### Hello, welcome to my github page 👋
-![391906110-WAVING-HAND-400px-unscreen](https://user-images.githubusercontent.com/77380960/131228825-9502a023-d8e2-4359-8f66-e17887a2c01c.gif)
+![ezgif-3-beac8a03ac80](https://user-images.githubusercontent.com/77380960/131228853-1b391167-9f39-490d-88a2-7b396e97983e.gif)
+
 
 
 
