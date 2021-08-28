@@ -7,7 +7,7 @@
 
 # Information
 
--- Programming Langs 
+- ###Programming Langs 
   - C#
   - Lua
   - Python 
