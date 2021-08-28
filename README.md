@@ -14,11 +14,20 @@
   - HTML/CSS 
   - Javascript
 
+ My Visual Studio Code Extensions
+  - https://marketplace.visualstudio.com/items?itemName=Wiggie.jungle-theme
+  - https://marketplace.visualstudio.com/items?itemName=Wiggie.vrp-snippets
+
+ My first piece of code
+ ```py
+ print("Hello World")
+ ```
+
 ## About me 
 - Well im a cool danish guy that loves, to program in many difrent langs. Im currently working most on C# 'n' Lua.
- 
+ - I like unity
 - Gitbook https://twitchwiggie321.gitbook.io/wiggie/
-- Fun fact: I'm cool.
+
 
 
 
