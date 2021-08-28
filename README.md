@@ -7,12 +7,12 @@
 
 # Information
 
-- Programming Langs 
-  -C#
-  -Lua
-  -Python 
-  -HTML/CSS 
-  -Javascript
+-- Programming Langs 
+  - C#
+  - Lua
+  - Python 
+  - HTML/CSS 
+  - Javascript
 
 # About me 
 - Well im a cool danish guy that loves, to program in many difrent langs. Im currently working most on C# 'n' Lua.
