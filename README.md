@@ -1,9 +1,9 @@
 ### Hello, welcome to my github page 👋
 
 
-### Information
+# Information
 
-## Programming Langs: Lua, Java, Javascript, Python, HTML/CSS, C#
+- Programming Langs: Lua, Java, Javascript, Python, HTML/CSS, C#
 
 ## About me: Well im a cool danish guy that loves, to program in many difrent langs. Im currently
 ### working the most os Lua in FiveM.
