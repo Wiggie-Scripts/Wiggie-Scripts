@@ -3,17 +3,18 @@
 
 # Information
 
-- Programming Langs: Lua, Java, Javascript, Python, HTML/CSS, C#
+- Programming Langs 
+  C#
+  Lua
+  Python 
+  HTML/CSS 
+  Javascript
 
-## About me: Well im a cool danish guy that loves, to program in many difrent langs. Im currently
-### working the most os Lua in FiveM.
-
-Website =  https://twitchwiggie321.gitbook.io/wiggie/
-Discord Server (DANISH) = https://discord.gg/vqWWdPPMSZ
-
-
-
-Fun fact: I'm cool.
+# About me 
+- Well im a cool danish guy that loves, to program in many difrent langs. Im currently working most on C# 'n' Lua.
+- 
+- Gitbook https://twitchwiggie321.gitbook.io/wiggie/
+- Fun fact: I'm cool.
 
 
 
