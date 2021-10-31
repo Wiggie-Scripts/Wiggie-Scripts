@@ -32,7 +32,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiggie-scripts)](https://github.com/wiggie-scripts/github-readme-stats)
 
-[![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=node.js&repo=node)](https://github.com/node.js/node)
+[![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=nodejs&repo=node)](https://github.com/nodejs/node)
 
 
 
