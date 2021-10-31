@@ -30,6 +30,8 @@
 
 ![Wiggie's github stats](https://github-readme-stats.vercel.app/api?username=wiggie-scripts)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiggie-scripts)](https://github.com/wiggie-scripts/github-readme-stats)
+
 
 
 
