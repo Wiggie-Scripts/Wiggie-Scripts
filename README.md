@@ -28,6 +28,9 @@
  - I like unity
 - Gitbook https://twitchwiggie321.gitbook.io/wiggie/
 
+![Wiggie's github stats](https://github-readme-stats.vercel.app/api?username=wiggie-scripts)
+
+
 
 
 
