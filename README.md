@@ -32,6 +32,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiggie-scripts)](https://github.com/wiggie-scripts/github-readme-stats)
 
+[![Node.js](https://github-readme-stats.vercel.app/api/pin/?username=node.js&repo=node.js)](https://github.com/node.js/node.js)
+
 
 
 
